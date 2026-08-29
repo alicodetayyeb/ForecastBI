@@ -2,9 +2,15 @@
 Data loading, cleaning, standardization, and compilation for PBS Excel and PDF datasets.
 """
 
+import sys
 from pathlib import Path
 from typing import Optional
 import pandas as pd
+
+# Add project root to sys.path for direct script execution
+BASE_DIR = Path(__file__).resolve().parent.parent
+if str(BASE_DIR) not in sys.path:
+    sys.path.insert(0, str(BASE_DIR))
 
 from src.utils import RAW_DATA_DIR, PROCESSED_DATA_DIR, OUTPUT_DATA_DIR, TARGET_COMMODITIES
 
