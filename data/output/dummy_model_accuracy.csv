@@ -1,0 +1,16 @@
+# DUMMY PLACEHOLDER - Model Evaluation Metrics Comparison
+commodity,model,mape_percent,rmse_pkr,mae_pkr,r2_score,is_best_model
+Tomatoes,Prophet,11.2,14.50,10.20,0.84,Yes
+Tomatoes,XGBoost,13.8,17.10,12.50,0.79,No
+Onion,Prophet,8.5,9.20,7.10,0.88,Yes
+Onion,XGBoost,9.1,10.40,8.00,0.85,No
+Potato,Prophet,6.4,5.80,4.30,0.91,Yes
+Potato,XGBoost,7.2,6.90,5.10,0.88,No
+Daal Moong,Prophet,4.8,12.10,9.50,0.93,Yes
+Daal Moong,XGBoost,5.5,14.30,11.20,0.90,No
+Daal Masar,Prophet,5.1,11.00,8.70,0.92,Yes
+Daal Masar,XGBoost,5.9,13.20,10.10,0.89,No
+Daal Masoor,Prophet,4.9,11.50,9.00,0.93,Yes
+Daal Masoor,XGBoost,5.7,13.80,10.50,0.89,No
+Daal Mash,Prophet,5.3,18.20,14.10,0.92,Yes
+Daal Mash,XGBoost,6.0,21.00,16.50,0.88,No

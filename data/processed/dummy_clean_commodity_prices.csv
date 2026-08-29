@@ -1,0 +1,16 @@
+# DUMMY PLACEHOLDER - Replace after running data cleaning pipeline
+date,commodity,price_pkr,unit,frequency
+2021-07-01,Tomatoes,45.50,Kg,Monthly
+2021-07-01,Onion,38.20,Kg,Monthly
+2021-07-01,Potato,52.00,Kg,Monthly
+2021-07-01,Daal Moong,220.00,Kg,Monthly
+2021-07-01,Daal Masar,160.00,Kg,Monthly
+2021-07-01,Daal Masoor,175.00,Kg,Monthly
+2021-07-01,Daal Mash,250.00,Kg,Monthly
+2021-08-01,Tomatoes,60.10,Kg,Monthly
+2021-08-01,Onion,42.50,Kg,Monthly
+2021-08-01,Potato,50.00,Kg,Monthly
+2021-08-01,Daal Moong,225.00,Kg,Monthly
+2021-08-01,Daal Masar,165.00,Kg,Monthly
+2021-08-01,Daal Masoor,180.00,Kg,Monthly
+2021-08-01,Daal Mash,255.00,Kg,Monthly

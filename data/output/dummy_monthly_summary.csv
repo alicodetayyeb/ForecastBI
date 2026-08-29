@@ -1,0 +1,9 @@
+# DUMMY PLACEHOLDER - KPI Summary Cards for Power BI Overview Page
+commodity,category,latest_actual_price_pkr,predicted_1y_price_pkr,yoy_change_percent,predicted_trend,volatility_level
+Tomatoes,Vegetables,135.00,155.00,14.81,Upward,High
+Onion,Vegetables,120.00,130.00,8.33,Upward,High
+Potato,Vegetables,95.00,105.00,10.53,Upward,Medium
+Daal Moong,Pulses,310.00,330.00,6.45,Upward,Low
+Daal Masar,Pulses,280.00,300.00,7.14,Upward,Low
+Daal Masoor,Pulses,295.00,315.00,6.78,Upward,Low
+Daal Mash,Pulses,520.00,560.00,7.69,Upward,Low
