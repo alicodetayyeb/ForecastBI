@@ -1,0 +1,169 @@
+Commodity,Model,Date,Forecast_Price,Lower_Bound,Upper_Bound
+Tomatoes,Prophet,2026-08-01,49.05,49.05,67.4
+Tomatoes,Prophet,2026-09-01,236.91,207.42,266.89
+Tomatoes,Prophet,2026-10-01,367.47,334.85,400.21
+Tomatoes,Prophet,2026-11-01,105.78,74.65,137.31
+Tomatoes,Prophet,2026-12-01,49.05,49.05,49.05
+Tomatoes,Prophet,2027-01-01,106.45,76.75,138.1
+Tomatoes,Prophet,2027-02-01,228.97,198.41,261.07
+Tomatoes,Prophet,2027-03-01,57.35,49.05,89.24
+Tomatoes,Prophet,2027-04-01,70.92,49.05,99.29
+Tomatoes,Prophet,2027-05-01,55.0,49.05,85.42
+Tomatoes,Prophet,2027-06-01,73.4,49.05,106.04
+Tomatoes,Prophet,2027-07-01,270.99,241.06,300.1
+Tomatoes,XGBoost,2026-08-01,181.1,162.99,199.21
+Tomatoes,XGBoost,2026-09-01,106.49,95.84,117.14
+Tomatoes,XGBoost,2026-10-01,99.52,89.57,109.47
+Tomatoes,XGBoost,2026-11-01,82.24,74.01,90.46
+Tomatoes,XGBoost,2026-12-01,97.88,88.09,107.67
+Tomatoes,XGBoost,2027-01-01,92.64,83.38,101.91
+Tomatoes,XGBoost,2027-02-01,70.65,63.58,77.71
+Tomatoes,XGBoost,2027-03-01,111.64,100.48,122.81
+Tomatoes,XGBoost,2027-04-01,259.95,233.96,285.95
+Tomatoes,XGBoost,2027-05-01,171.85,154.66,189.03
+Tomatoes,XGBoost,2027-06-01,94.8,85.32,104.28
+Tomatoes,XGBoost,2027-07-01,79.9,71.91,87.89
+Onions,Prophet,2026-08-01,50.42,45.51,60.05
+Onions,Prophet,2026-09-01,63.42,53.1,73.54
+Onions,Prophet,2026-10-01,119.78,108.6,130.69
+Onions,Prophet,2026-11-01,199.82,187.25,212.86
+Onions,Prophet,2026-12-01,116.82,104.89,129.4
+Onions,Prophet,2027-01-01,82.33,69.79,94.33
+Onions,Prophet,2027-02-01,106.25,91.9,120.07
+Onions,Prophet,2027-03-01,78.34,64.66,91.69
+Onions,Prophet,2027-04-01,83.2,68.77,97.74
+Onions,Prophet,2027-05-01,95.21,78.79,112.29
+Onions,Prophet,2027-06-01,109.74,88.93,131.5
+Onions,Prophet,2027-07-01,128.78,103.28,154.86
+Onions,XGBoost,2026-08-01,100.99,90.89,111.09
+Onions,XGBoost,2026-09-01,86.13,77.52,94.75
+Onions,XGBoost,2026-10-01,104.4,93.96,114.84
+Onions,XGBoost,2026-11-01,111.48,100.33,122.63
+Onions,XGBoost,2026-12-01,118.57,106.72,130.43
+Onions,XGBoost,2027-01-01,107.21,96.49,117.93
+Onions,XGBoost,2027-02-01,93.83,84.45,103.22
+Onions,XGBoost,2027-03-01,93.57,84.22,102.93
+Onions,XGBoost,2027-04-01,93.7,84.33,103.07
+Onions,XGBoost,2027-05-01,95.32,85.79,104.86
+Onions,XGBoost,2027-06-01,92.79,83.51,102.07
+Onions,XGBoost,2027-07-01,98.3,88.47,108.13
+Potatoes,Prophet,2026-08-01,33.26,31.12,39.01
+Potatoes,Prophet,2026-09-01,35.85,31.12,41.44
+Potatoes,Prophet,2026-10-01,36.67,31.12,42.5
+Potatoes,Prophet,2026-11-01,33.56,31.12,39.31
+Potatoes,Prophet,2026-12-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-01-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-02-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-03-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-04-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-05-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-06-01,31.12,31.12,31.12
+Potatoes,Prophet,2027-07-01,31.12,31.12,31.12
+Potatoes,XGBoost,2026-08-01,55.34,49.81,60.87
+Potatoes,XGBoost,2026-09-01,54.95,49.45,60.44
+Potatoes,XGBoost,2026-10-01,57.46,51.71,63.2
+Potatoes,XGBoost,2026-11-01,57.79,52.01,63.57
+Potatoes,XGBoost,2026-12-01,57.43,51.69,63.18
+Potatoes,XGBoost,2027-01-01,41.13,37.01,45.24
+Potatoes,XGBoost,2027-02-01,32.77,29.49,36.04
+Potatoes,XGBoost,2027-03-01,32.64,29.38,35.9
+Potatoes,XGBoost,2027-04-01,35.67,32.11,39.24
+Potatoes,XGBoost,2027-05-01,41.46,37.31,45.6
+Potatoes,XGBoost,2027-06-01,45.52,40.97,50.08
+Potatoes,XGBoost,2027-07-01,55.13,49.62,60.65
+Pulse Moong (Washed),Prophet,2026-08-01,362.18,356.8,367.77
+Pulse Moong (Washed),Prophet,2026-09-01,393.32,387.56,398.85
+Pulse Moong (Washed),Prophet,2026-10-01,380.85,374.73,387.04
+Pulse Moong (Washed),Prophet,2026-11-01,359.0,352.37,365.77
+Pulse Moong (Washed),Prophet,2026-12-01,378.21,371.1,385.66
+Pulse Moong (Washed),Prophet,2027-01-01,382.01,374.42,390.43
+Pulse Moong (Washed),Prophet,2027-02-01,392.19,383.16,402.1
+Pulse Moong (Washed),Prophet,2027-03-01,371.94,360.68,383.19
+Pulse Moong (Washed),Prophet,2027-04-01,379.06,367.26,392.0
+Pulse Moong (Washed),Prophet,2027-05-01,387.24,372.36,401.75
+Pulse Moong (Washed),Prophet,2027-06-01,372.78,356.35,388.95
+Pulse Moong (Washed),Prophet,2027-07-01,351.85,332.76,370.9
+Pulse Moong (Washed),XGBoost,2026-08-01,383.64,345.27,422.0
+Pulse Moong (Washed),XGBoost,2026-09-01,382.6,344.34,420.86
+Pulse Moong (Washed),XGBoost,2026-10-01,383.46,345.11,421.8
+Pulse Moong (Washed),XGBoost,2026-11-01,378.71,340.84,416.58
+Pulse Moong (Washed),XGBoost,2026-12-01,379.52,341.57,417.48
+Pulse Moong (Washed),XGBoost,2027-01-01,388.38,349.54,427.21
+Pulse Moong (Washed),XGBoost,2027-02-01,390.8,351.72,429.88
+Pulse Moong (Washed),XGBoost,2027-03-01,391.0,351.9,430.1
+Pulse Moong (Washed),XGBoost,2027-04-01,391.87,352.68,431.06
+Pulse Moong (Washed),XGBoost,2027-05-01,391.75,352.57,430.92
+Pulse Moong (Washed),XGBoost,2027-06-01,383.75,345.38,422.13
+Pulse Moong (Washed),XGBoost,2027-07-01,374.08,336.68,411.49
+Pulse Gram,Prophet,2026-08-01,257.68,245.61,294.4
+Pulse Gram,Prophet,2026-09-01,292.33,253.96,327.62
+Pulse Gram,Prophet,2026-10-01,305.65,269.56,341.95
+Pulse Gram,Prophet,2026-11-01,304.36,269.27,345.43
+Pulse Gram,Prophet,2026-12-01,284.15,245.61,321.54
+Pulse Gram,Prophet,2027-01-01,245.61,245.61,259.43
+Pulse Gram,Prophet,2027-02-01,245.61,245.61,245.61
+Pulse Gram,Prophet,2027-03-01,245.61,245.61,278.52
+Pulse Gram,Prophet,2027-04-01,245.61,245.61,260.18
+Pulse Gram,Prophet,2027-05-01,245.61,245.61,249.58
+Pulse Gram,Prophet,2027-06-01,245.61,245.61,245.61
+Pulse Gram,Prophet,2027-07-01,245.61,245.61,245.61
+Pulse Gram,XGBoost,2026-08-01,254.65,229.18,280.11
+Pulse Gram,XGBoost,2026-09-01,258.49,232.64,284.34
+Pulse Gram,XGBoost,2026-10-01,262.43,236.19,288.67
+Pulse Gram,XGBoost,2026-11-01,260.58,234.52,286.63
+Pulse Gram,XGBoost,2026-12-01,258.86,232.97,284.74
+Pulse Gram,XGBoost,2027-01-01,259.48,233.53,285.42
+Pulse Gram,XGBoost,2027-02-01,253.84,228.45,279.22
+Pulse Gram,XGBoost,2027-03-01,251.8,226.62,276.98
+Pulse Gram,XGBoost,2027-04-01,250.26,225.23,275.28
+Pulse Gram,XGBoost,2027-05-01,249.68,224.71,274.65
+Pulse Gram,XGBoost,2027-06-01,280.08,252.07,308.09
+Pulse Gram,XGBoost,2027-07-01,292.58,263.32,321.83
+Pulse Masoor (Washed),Prophet,2026-08-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2026-09-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2026-10-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2026-11-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2026-12-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-01-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-02-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-03-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-04-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-05-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-06-01,257.64,257.64,257.64
+Pulse Masoor (Washed),Prophet,2027-07-01,257.64,257.64,257.64
+Pulse Masoor (Washed),XGBoost,2026-08-01,259.41,233.47,285.35
+Pulse Masoor (Washed),XGBoost,2026-09-01,260.11,234.09,286.12
+Pulse Masoor (Washed),XGBoost,2026-10-01,260.59,234.53,286.65
+Pulse Masoor (Washed),XGBoost,2026-11-01,260.76,234.68,286.83
+Pulse Masoor (Washed),XGBoost,2026-12-01,260.91,234.82,287.0
+Pulse Masoor (Washed),XGBoost,2027-01-01,261.03,234.92,287.13
+Pulse Masoor (Washed),XGBoost,2027-02-01,260.95,234.86,287.05
+Pulse Masoor (Washed),XGBoost,2027-03-01,260.24,234.21,286.26
+Pulse Masoor (Washed),XGBoost,2027-04-01,260.0,234.0,286.0
+Pulse Masoor (Washed),XGBoost,2027-05-01,258.48,232.63,284.33
+Pulse Masoor (Washed),XGBoost,2027-06-01,258.06,232.26,283.87
+Pulse Masoor (Washed),XGBoost,2027-07-01,257.79,232.01,283.57
+Pulse Mash (Washed),Prophet,2026-08-01,494.1,486.03,502.18
+Pulse Mash (Washed),Prophet,2026-09-01,527.88,519.81,536.29
+Pulse Mash (Washed),Prophet,2026-10-01,532.53,523.65,541.44
+Pulse Mash (Washed),Prophet,2026-11-01,515.2,505.51,525.03
+Pulse Mash (Washed),Prophet,2026-12-01,490.58,478.74,501.66
+Pulse Mash (Washed),Prophet,2027-01-01,458.4,445.18,471.63
+Pulse Mash (Washed),Prophet,2027-02-01,493.9,478.29,508.86
+Pulse Mash (Washed),Prophet,2027-03-01,532.41,514.23,549.38
+Pulse Mash (Washed),Prophet,2027-04-01,543.1,523.03,563.19
+Pulse Mash (Washed),Prophet,2027-05-01,528.91,504.55,551.72
+Pulse Mash (Washed),Prophet,2027-06-01,518.25,490.13,542.62
+Pulse Mash (Washed),Prophet,2027-07-01,499.38,469.07,527.37
+Pulse Mash (Washed),XGBoost,2026-08-01,447.51,402.76,492.26
+Pulse Mash (Washed),XGBoost,2026-09-01,447.91,403.12,492.7
+Pulse Mash (Washed),XGBoost,2026-10-01,450.07,405.06,495.08
+Pulse Mash (Washed),XGBoost,2026-11-01,444.76,400.29,489.24
+Pulse Mash (Washed),XGBoost,2026-12-01,439.4,395.46,483.34
+Pulse Mash (Washed),XGBoost,2027-01-01,430.36,387.33,473.4
+Pulse Mash (Washed),XGBoost,2027-02-01,455.05,409.54,500.55
+Pulse Mash (Washed),XGBoost,2027-03-01,459.84,413.86,505.83
+Pulse Mash (Washed),XGBoost,2027-04-01,470.36,423.32,517.39
+Pulse Mash (Washed),XGBoost,2027-05-01,460.12,414.11,506.13
+Pulse Mash (Washed),XGBoost,2027-06-01,460.55,414.5,506.61
+Pulse Mash (Washed),XGBoost,2027-07-01,454.71,409.23,500.18

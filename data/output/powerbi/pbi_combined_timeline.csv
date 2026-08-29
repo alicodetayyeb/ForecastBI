@@ -1,0 +1,456 @@
+Date,Commodity,Price,Price_Type,Model,Lower_Bound,Upper_Bound
+2023-03-01,Pulse Masoor (Washed),279.9,Actual,Historical,,
+2023-03-01,Pulse Moong (Washed),282.91,Actual,Historical,,
+2023-03-01,Pulse Mash (Washed),419.23,Actual,Historical,,
+2023-03-01,Pulse Gram,255.62,Actual,Historical,,
+2023-03-01,Potatoes,52.48,Actual,Historical,,
+2023-03-01,Onions,134.16,Actual,Historical,,
+2023-03-01,Tomatoes,64.76,Actual,Historical,,
+2023-04-01,Pulse Masoor (Washed),279.43,Actual,Historical,,
+2023-04-01,Pulse Moong (Washed),280.94,Actual,Historical,,
+2023-04-01,Pulse Mash (Washed),428.08,Actual,Historical,,
+2023-04-01,Pulse Gram,247.06,Actual,Historical,,
+2023-04-01,Potatoes,67.93,Actual,Historical,,
+2023-04-01,Onions,82.94,Actual,Historical,,
+2023-04-01,Tomatoes,55.84,Actual,Historical,,
+2023-05-01,Pulse Masoor (Washed),284.68,Actual,Historical,,
+2023-05-01,Pulse Moong (Washed),282.93,Actual,Historical,,
+2023-05-01,Pulse Mash (Washed),443.43,Actual,Historical,,
+2023-05-01,Pulse Gram,250.32,Actual,Historical,,
+2023-05-01,Potatoes,79.51,Actual,Historical,,
+2023-05-01,Onions,56.33,Actual,Historical,,
+2023-05-01,Tomatoes,42.26,Actual,Historical,,
+2023-06-01,Pulse Masoor (Washed),277.38,Actual,Historical,,
+2023-06-01,Pulse Moong (Washed),269.75,Actual,Historical,,
+2023-06-01,Pulse Mash (Washed),453.95,Actual,Historical,,
+2023-06-01,Pulse Gram,243.96,Actual,Historical,,
+2023-06-01,Potatoes,84.52,Actual,Historical,,
+2023-06-01,Onions,60.67,Actual,Historical,,
+2023-06-01,Tomatoes,51.94,Actual,Historical,,
+2023-07-01,Pulse Masoor (Washed),274.8,Actual,Historical,,
+2023-07-01,Pulse Moong (Washed),263.26,Actual,Historical,,
+2023-07-01,Pulse Mash (Washed),468.25,Actual,Historical,,
+2023-07-01,Pulse Gram,240.48,Actual,Historical,,
+2023-07-01,Potatoes,91.91,Actual,Historical,,
+2023-07-01,Onions,58.97,Actual,Historical,,
+2023-07-01,Tomatoes,90.53,Actual,Historical,,
+2023-08-01,Pulse Masoor (Washed),285.75,Actual,Historical,,
+2023-08-01,Pulse Moong (Washed),269.94,Actual,Historical,,
+2023-08-01,Pulse Mash (Washed),499.57,Actual,Historical,,
+2023-08-01,Pulse Gram,242.6,Actual,Historical,,
+2023-08-01,Potatoes,95.08,Actual,Historical,,
+2023-08-01,Onions,65.96,Actual,Historical,,
+2023-08-01,Tomatoes,115.42,Actual,Historical,,
+2023-09-01,Pulse Masoor (Washed),337.54,Actual,Historical,,
+2023-09-01,Pulse Moong (Washed),287.61,Actual,Historical,,
+2023-09-01,Pulse Mash (Washed),538.59,Actual,Historical,,
+2023-09-01,Pulse Gram,250.1,Actual,Historical,,
+2023-09-01,Potatoes,95.35,Actual,Historical,,
+2023-09-01,Onions,84.39,Actual,Historical,,
+2023-09-01,Tomatoes,102.11,Actual,Historical,,
+2023-10-01,Pulse Masoor (Washed),323.01,Actual,Historical,,
+2023-10-01,Pulse Moong (Washed),279.57,Actual,Historical,,
+2023-10-01,Pulse Mash (Washed),529.88,Actual,Historical,,
+2023-10-01,Pulse Gram,234.86,Actual,Historical,,
+2023-10-01,Potatoes,98.13,Actual,Historical,,
+2023-10-01,Onions,106.1,Actual,Historical,,
+2023-10-01,Tomatoes,112.8,Actual,Historical,,
+2023-11-01,Pulse Masoor (Washed),320.98,Actual,Historical,,
+2023-11-01,Pulse Moong (Washed),276.47,Actual,Historical,,
+2023-11-01,Pulse Mash (Washed),520.96,Actual,Historical,,
+2023-11-01,Pulse Gram,229.43,Actual,Historical,,
+2023-11-01,Potatoes,106.92,Actual,Historical,,
+2023-11-01,Onions,127.42,Actual,Historical,,
+2023-11-01,Tomatoes,161.49,Actual,Historical,,
+2023-12-01,Pulse Masoor (Washed),335.16,Actual,Historical,,
+2023-12-01,Pulse Moong (Washed),286.56,Actual,Historical,,
+2023-12-01,Pulse Mash (Washed),529.54,Actual,Historical,,
+2023-12-01,Pulse Gram,239.56,Actual,Historical,,
+2023-12-01,Potatoes,83.25,Actual,Historical,,
+2023-12-01,Onions,167.38,Actual,Historical,,
+2023-12-01,Tomatoes,111.21,Actual,Historical,,
+2024-01-01,Pulse Masoor (Washed),339.5,Actual,Historical,,
+2024-01-01,Pulse Moong (Washed),302.54,Actual,Historical,,
+2024-01-01,Pulse Mash (Washed),539.94,Actual,Historical,,
+2024-01-01,Pulse Gram,257.78,Actual,Historical,,
+2024-01-01,Potatoes,59.24,Actual,Historical,,
+2024-01-01,Onions,214.14,Actual,Historical,,
+2024-01-01,Tomatoes,138.21,Actual,Historical,,
+2024-02-01,Pulse Masoor (Washed),333.59,Actual,Historical,,
+2024-02-01,Pulse Moong (Washed),311.92,Actual,Historical,,
+2024-02-01,Pulse Mash (Washed),540.03,Actual,Historical,,
+2024-02-01,Pulse Gram,259.56,Actual,Historical,,
+2024-02-01,Potatoes,68.35,Actual,Historical,,
+2024-02-01,Onions,221.59,Actual,Historical,,
+2024-02-01,Tomatoes,122.11,Actual,Historical,,
+2024-03-01,Pulse Masoor (Washed),333.59,Actual,Historical,,
+2024-03-01,Pulse Moong (Washed),311.92,Actual,Historical,,
+2024-03-01,Pulse Mash (Washed),540.03,Actual,Historical,,
+2024-03-01,Pulse Gram,259.56,Actual,Historical,,
+2024-03-01,Potatoes,68.35,Actual,Historical,,
+2024-03-01,Onions,221.59,Actual,Historical,,
+2024-03-01,Tomatoes,122.11,Actual,Historical,,
+2024-04-01,Pulse Masoor (Washed),329.69,Actual,Historical,,
+2024-04-01,Pulse Moong (Washed),311.71,Actual,Historical,,
+2024-04-01,Pulse Mash (Washed),541.09,Actual,Historical,,
+2024-04-01,Pulse Gram,257.76,Actual,Historical,,
+2024-04-01,Potatoes,72.2,Actual,Historical,,
+2024-04-01,Onions,192.31,Actual,Historical,,
+2024-04-01,Tomatoes,103.9,Actual,Historical,,
+2024-05-01,Pulse Masoor (Washed),320.94,Actual,Historical,,
+2024-05-01,Pulse Moong (Washed),308.75,Actual,Historical,,
+2024-05-01,Pulse Mash (Washed),548.27,Actual,Historical,,
+2024-05-01,Pulse Gram,260.01,Actual,Historical,,
+2024-05-01,Potatoes,87.85,Actual,Historical,,
+2024-05-01,Onions,113.91,Actual,Historical,,
+2024-05-01,Tomatoes,67.68,Actual,Historical,,
+2024-06-01,Pulse Masoor (Washed),314.68,Actual,Historical,,
+2024-06-01,Pulse Moong (Washed),313.54,Actual,Historical,,
+2024-06-01,Pulse Mash (Washed),564.73,Actual,Historical,,
+2024-06-01,Pulse Gram,293.21,Actual,Historical,,
+2024-06-01,Potatoes,95.4,Actual,Historical,,
+2024-06-01,Onions,129.98,Actual,Historical,,
+2024-06-01,Tomatoes,108.42,Actual,Historical,,
+2024-07-01,Pulse Masoor (Washed),325.02,Actual,Historical,,
+2024-07-01,Pulse Moong (Washed),337.77,Actual,Historical,,
+2024-07-01,Pulse Mash (Washed),573.48,Actual,Historical,,
+2024-07-01,Pulse Gram,330.02,Actual,Historical,,
+2024-07-01,Potatoes,98.28,Actual,Historical,,
+2024-07-01,Onions,112.88,Actual,Historical,,
+2024-07-01,Tomatoes,165.1,Actual,Historical,,
+2024-08-01,Pulse Masoor (Washed),320.92,Actual,Historical,,
+2024-08-01,Pulse Moong (Washed),341.16,Actual,Historical,,
+2024-08-01,Pulse Mash (Washed),581.03,Actual,Historical,,
+2024-08-01,Pulse Gram,354.44,Actual,Historical,,
+2024-08-01,Potatoes,100.61,Actual,Historical,,
+2024-08-01,Onions,134.87,Actual,Historical,,
+2024-08-01,Tomatoes,132.16,Actual,Historical,,
+2024-09-01,Pulse Masoor (Washed),311.65,Actual,Historical,,
+2024-09-01,Pulse Moong (Washed),336.24,Actual,Historical,,
+2024-09-01,Pulse Mash (Washed),568.62,Actual,Historical,,
+2024-09-01,Pulse Gram,390.4,Actual,Historical,,
+2024-09-01,Potatoes,102.33,Actual,Historical,,
+2024-09-01,Onions,149.2,Actual,Historical,,
+2024-09-01,Tomatoes,117.82,Actual,Historical,,
+2024-10-01,Pulse Masoor (Washed),306.86,Actual,Historical,,
+2024-10-01,Pulse Moong (Washed),357.86,Actual,Historical,,
+2024-10-01,Pulse Mash (Washed),542.87,Actual,Historical,,
+2024-10-01,Pulse Gram,411.18,Actual,Historical,,
+2024-10-01,Potatoes,102.37,Actual,Historical,,
+2024-10-01,Onions,154.97,Actual,Historical,,
+2024-10-01,Tomatoes,138.29,Actual,Historical,,
+2024-11-01,Pulse Masoor (Washed),305.09,Actual,Historical,,
+2024-11-01,Pulse Moong (Washed),385.25,Actual,Historical,,
+2024-11-01,Pulse Mash (Washed),523.56,Actual,Historical,,
+2024-11-01,Pulse Gram,398.51,Actual,Historical,,
+2024-11-01,Potatoes,110.93,Actual,Historical,,
+2024-11-01,Onions,149.69,Actual,Historical,,
+2024-11-01,Tomatoes,165.65,Actual,Historical,,
+2024-12-01,Pulse Masoor (Washed),300.18,Actual,Historical,,
+2024-12-01,Pulse Moong (Washed),387.27,Actual,Historical,,
+2024-12-01,Pulse Mash (Washed),506.52,Actual,Historical,,
+2024-12-01,Pulse Gram,378.97,Actual,Historical,,
+2024-12-01,Potatoes,116.85,Actual,Historical,,
+2024-12-01,Onions,141.85,Actual,Historical,,
+2024-12-01,Tomatoes,178.45,Actual,Historical,,
+2025-01-01,Pulse Masoor (Washed),301.03,Actual,Historical,,
+2025-01-01,Pulse Moong (Washed),402.44,Actual,Historical,,
+2025-01-01,Pulse Mash (Washed),494.66,Actual,Historical,,
+2025-01-01,Pulse Gram,361.46,Actual,Historical,,
+2025-01-01,Potatoes,87.4,Actual,Historical,,
+2025-01-01,Onions,118.07,Actual,Historical,,
+2025-01-01,Tomatoes,119.02,Actual,Historical,,
+2025-02-01,Pulse Masoor (Washed),298.55,Actual,Historical,,
+2025-02-01,Pulse Moong (Washed),400.88,Actual,Historical,,
+2025-02-01,Pulse Mash (Washed),483.03,Actual,Historical,,
+2025-02-01,Pulse Gram,332.51,Actual,Historical,,
+2025-02-01,Potatoes,68.31,Actual,Historical,,
+2025-02-01,Onions,88.62,Actual,Historical,,
+2025-02-01,Tomatoes,58.21,Actual,Historical,,
+2025-03-01,Pulse Masoor (Washed),293.89,Actual,Historical,,
+2025-03-01,Pulse Moong (Washed),396.07,Actual,Historical,,
+2025-03-01,Pulse Mash (Washed),463.12,Actual,Historical,,
+2025-03-01,Pulse Gram,309.31,Actual,Historical,,
+2025-03-01,Potatoes,62.95,Actual,Historical,,
+2025-03-01,Onions,69.8,Actual,Historical,,
+2025-03-01,Tomatoes,73.04,Actual,Historical,,
+2025-04-01,Pulse Masoor (Washed),294.42,Actual,Historical,,
+2025-04-01,Pulse Moong (Washed),396.42,Actual,Historical,,
+2025-04-01,Pulse Mash (Washed),463.56,Actual,Historical,,
+2025-04-01,Pulse Gram,309.17,Actual,Historical,,
+2025-04-01,Potatoes,63.61,Actual,Historical,,
+2025-04-01,Onions,56.54,Actual,Historical,,
+2025-04-01,Tomatoes,64.93,Actual,Historical,,
+2025-05-01,Pulse Masoor (Washed),293.92,Actual,Historical,,
+2025-05-01,Pulse Moong (Washed),400.82,Actual,Historical,,
+2025-05-01,Pulse Mash (Washed),457.78,Actual,Historical,,
+2025-05-01,Pulse Gram,314.58,Actual,Historical,,
+2025-05-01,Potatoes,62.85,Actual,Historical,,
+2025-05-01,Onions,45.51,Actual,Historical,,
+2025-05-01,Tomatoes,49.05,Actual,Historical,,
+2025-06-01,Pulse Masoor (Washed),280.0,Actual,Historical,,
+2025-06-01,Pulse Moong (Washed),370.0,Actual,Historical,,
+2025-06-01,Pulse Mash (Washed),470.0,Actual,Historical,,
+2025-06-01,Pulse Gram,290.0,Actual,Historical,,
+2025-06-01,Potatoes,100.0,Actual,Historical,,
+2025-06-01,Onions,50.0,Actual,Historical,,
+2025-06-01,Tomatoes,80.0,Actual,Historical,,
+2025-07-01,Pulse Masoor (Washed),295.99,Actual,Historical,,
+2025-07-01,Pulse Moong (Washed),398.37,Actual,Historical,,
+2025-07-01,Pulse Mash (Washed),455.19,Actual,Historical,,
+2025-07-01,Pulse Gram,313.38,Actual,Historical,,
+2025-07-01,Potatoes,83.95,Actual,Historical,,
+2025-07-01,Onions,55.97,Actual,Historical,,
+2025-07-01,Tomatoes,85.63,Actual,Historical,,
+2025-08-01,Pulse Masoor (Washed),295.31,Actual,Historical,,
+2025-08-01,Pulse Moong (Washed),382.13,Actual,Historical,,
+2025-08-01,Pulse Mash (Washed),447.58,Actual,Historical,,
+2025-08-01,Pulse Gram,307.55,Actual,Historical,,
+2025-08-01,Potatoes,81.92,Actual,Historical,,
+2025-08-01,Onions,69.73,Actual,Historical,,
+2025-08-01,Tomatoes,112.16,Actual,Historical,,
+2025-09-01,Pulse Masoor (Washed),295.39,Actual,Historical,,
+2025-09-01,Pulse Moong (Washed),387.18,Actual,Historical,,
+2025-09-01,Pulse Mash (Washed),448.35,Actual,Historical,,
+2025-09-01,Pulse Gram,308.8,Actual,Historical,,
+2025-09-01,Potatoes,84.86,Actual,Historical,,
+2025-09-01,Onions,86.43,Actual,Historical,,
+2025-09-01,Tomatoes,198.04,Actual,Historical,,
+2025-10-01,Pulse Masoor (Washed),294.32,Actual,Historical,,
+2025-10-01,Pulse Moong (Washed),383.58,Actual,Historical,,
+2025-10-01,Pulse Mash (Washed),448.06,Actual,Historical,,
+2025-10-01,Pulse Gram,299.69,Actual,Historical,,
+2025-10-01,Potatoes,83.38,Actual,Historical,,
+2025-10-01,Onions,110.52,Actual,Historical,,
+2025-10-01,Tomatoes,264.57,Actual,Historical,,
+2025-11-01,Pulse Masoor (Washed),290.25,Actual,Historical,,
+2025-11-01,Pulse Moong (Washed),377.9,Actual,Historical,,
+2025-11-01,Pulse Mash (Washed),443.56,Actual,Historical,,
+2025-11-01,Pulse Gram,281.01,Actual,Historical,,
+2025-11-01,Potatoes,80.4,Actual,Historical,,
+2025-11-01,Onions,143.35,Actual,Historical,,
+2025-11-01,Tomatoes,135.99,Actual,Historical,,
+2025-12-01,Pulse Masoor (Washed),283.53,Actual,Historical,,
+2025-12-01,Pulse Moong (Washed),381.49,Actual,Historical,,
+2025-12-01,Pulse Mash (Washed),437.48,Actual,Historical,,
+2025-12-01,Pulse Gram,268.04,Actual,Historical,,
+2025-12-01,Potatoes,64.68,Actual,Historical,,
+2025-12-01,Onions,99.62,Actual,Historical,,
+2025-12-01,Tomatoes,76.69,Actual,Historical,,
+2026-01-01,Pulse Masoor (Washed),273.43,Actual,Historical,,
+2026-01-01,Pulse Moong (Washed),386.05,Actual,Historical,,
+2026-01-01,Pulse Mash (Washed),429.76,Actual,Historical,,
+2026-01-01,Pulse Gram,253.66,Actual,Historical,,
+2026-01-01,Potatoes,45.03,Actual,Historical,,
+2026-01-01,Onions,74.0,Actual,Historical,,
+2026-01-01,Tomatoes,79.38,Actual,Historical,,
+2026-02-01,Pulse Masoor (Washed),264.58,Actual,Historical,,
+2026-02-01,Pulse Moong (Washed),391.61,Actual,Historical,,
+2026-02-01,Pulse Mash (Washed),455.64,Actual,Historical,,
+2026-02-01,Pulse Gram,252.58,Actual,Historical,,
+2026-02-01,Potatoes,36.33,Actual,Historical,,
+2026-02-01,Onions,68.89,Actual,Historical,,
+2026-02-01,Tomatoes,93.8,Actual,Historical,,
+2026-03-01,Pulse Masoor (Washed),260.97,Actual,Historical,,
+2026-03-01,Pulse Moong (Washed),388.49,Actual,Historical,,
+2026-03-01,Pulse Mash (Washed),465.34,Actual,Historical,,
+2026-03-01,Pulse Gram,249.55,Actual,Historical,,
+2026-03-01,Potatoes,31.12,Actual,Historical,,
+2026-03-01,Onions,68.13,Actual,Historical,,
+2026-03-01,Tomatoes,71.38,Actual,Historical,,
+2026-04-01,Pulse Masoor (Washed),260.69,Actual,Historical,,
+2026-04-01,Pulse Moong (Washed),389.88,Actual,Historical,,
+2026-04-01,Pulse Mash (Washed),473.46,Actual,Historical,,
+2026-04-01,Pulse Gram,250.12,Actual,Historical,,
+2026-04-01,Potatoes,33.9,Actual,Historical,,
+2026-04-01,Onions,74.43,Actual,Historical,,
+2026-04-01,Tomatoes,78.51,Actual,Historical,,
+2026-05-01,Pulse Masoor (Washed),258.88,Actual,Historical,,
+2026-05-01,Pulse Moong (Washed),389.73,Actual,Historical,,
+2026-05-01,Pulse Mash (Washed),466.54,Actual,Historical,,
+2026-05-01,Pulse Gram,247.57,Actual,Historical,,
+2026-05-01,Potatoes,35.54,Actual,Historical,,
+2026-05-01,Onions,70.08,Actual,Historical,,
+2026-05-01,Tomatoes,60.91,Actual,Historical,,
+2026-06-01,Pulse Masoor (Washed),258.81,Actual,Historical,,
+2026-06-01,Pulse Moong (Washed),384.47,Actual,Historical,,
+2026-06-01,Pulse Mash (Washed),461.62,Actual,Historical,,
+2026-06-01,Pulse Gram,245.61,Actual,Historical,,
+2026-06-01,Potatoes,45.06,Actual,Historical,,
+2026-06-01,Onions,90.5,Actual,Historical,,
+2026-06-01,Tomatoes,96.24,Actual,Historical,,
+2026-07-01,Pulse Masoor (Washed),257.64,Actual,Historical,,
+2026-07-01,Pulse Moong (Washed),368.16,Actual,Historical,,
+2026-07-01,Pulse Mash (Washed),453.55,Actual,Historical,,
+2026-07-01,Pulse Gram,246.04,Actual,Historical,,
+2026-07-01,Potatoes,54.98,Actual,Historical,,
+2026-07-01,Onions,101.81,Actual,Historical,,
+2026-07-01,Tomatoes,264.13,Actual,Historical,,
+2026-08-01,Tomatoes,49.05,Forecast,Prophet,49.05,67.4
+2026-09-01,Tomatoes,236.91,Forecast,Prophet,207.42,266.89
+2026-10-01,Tomatoes,367.47,Forecast,Prophet,334.85,400.21
+2026-11-01,Tomatoes,105.78,Forecast,Prophet,74.65,137.31
+2026-12-01,Tomatoes,49.05,Forecast,Prophet,49.05,49.05
+2027-01-01,Tomatoes,106.45,Forecast,Prophet,76.75,138.1
+2027-02-01,Tomatoes,228.97,Forecast,Prophet,198.41,261.07
+2027-03-01,Tomatoes,57.35,Forecast,Prophet,49.05,89.24
+2027-04-01,Tomatoes,70.92,Forecast,Prophet,49.05,99.29
+2027-05-01,Tomatoes,55.0,Forecast,Prophet,49.05,85.42
+2027-06-01,Tomatoes,73.4,Forecast,Prophet,49.05,106.04
+2027-07-01,Tomatoes,270.99,Forecast,Prophet,241.06,300.1
+2026-08-01,Tomatoes,181.1,Forecast,XGBoost,162.99,199.21
+2026-09-01,Tomatoes,106.49,Forecast,XGBoost,95.84,117.14
+2026-10-01,Tomatoes,99.52,Forecast,XGBoost,89.57,109.47
+2026-11-01,Tomatoes,82.24,Forecast,XGBoost,74.01,90.46
+2026-12-01,Tomatoes,97.88,Forecast,XGBoost,88.09,107.67
+2027-01-01,Tomatoes,92.64,Forecast,XGBoost,83.38,101.91
+2027-02-01,Tomatoes,70.65,Forecast,XGBoost,63.58,77.71
+2027-03-01,Tomatoes,111.64,Forecast,XGBoost,100.48,122.81
+2027-04-01,Tomatoes,259.95,Forecast,XGBoost,233.96,285.95
+2027-05-01,Tomatoes,171.85,Forecast,XGBoost,154.66,189.03
+2027-06-01,Tomatoes,94.8,Forecast,XGBoost,85.32,104.28
+2027-07-01,Tomatoes,79.9,Forecast,XGBoost,71.91,87.89
+2026-08-01,Onions,50.42,Forecast,Prophet,45.51,60.05
+2026-09-01,Onions,63.42,Forecast,Prophet,53.1,73.54
+2026-10-01,Onions,119.78,Forecast,Prophet,108.6,130.69
+2026-11-01,Onions,199.82,Forecast,Prophet,187.25,212.86
+2026-12-01,Onions,116.82,Forecast,Prophet,104.89,129.4
+2027-01-01,Onions,82.33,Forecast,Prophet,69.79,94.33
+2027-02-01,Onions,106.25,Forecast,Prophet,91.9,120.07
+2027-03-01,Onions,78.34,Forecast,Prophet,64.66,91.69
+2027-04-01,Onions,83.2,Forecast,Prophet,68.77,97.74
+2027-05-01,Onions,95.21,Forecast,Prophet,78.79,112.29
+2027-06-01,Onions,109.74,Forecast,Prophet,88.93,131.5
+2027-07-01,Onions,128.78,Forecast,Prophet,103.28,154.86
+2026-08-01,Onions,100.99,Forecast,XGBoost,90.89,111.09
+2026-09-01,Onions,86.13,Forecast,XGBoost,77.52,94.75
+2026-10-01,Onions,104.4,Forecast,XGBoost,93.96,114.84
+2026-11-01,Onions,111.48,Forecast,XGBoost,100.33,122.63
+2026-12-01,Onions,118.57,Forecast,XGBoost,106.72,130.43
+2027-01-01,Onions,107.21,Forecast,XGBoost,96.49,117.93
+2027-02-01,Onions,93.83,Forecast,XGBoost,84.45,103.22
+2027-03-01,Onions,93.57,Forecast,XGBoost,84.22,102.93
+2027-04-01,Onions,93.7,Forecast,XGBoost,84.33,103.07
+2027-05-01,Onions,95.32,Forecast,XGBoost,85.79,104.86
+2027-06-01,Onions,92.79,Forecast,XGBoost,83.51,102.07
+2027-07-01,Onions,98.3,Forecast,XGBoost,88.47,108.13
+2026-08-01,Potatoes,33.26,Forecast,Prophet,31.12,39.01
+2026-09-01,Potatoes,35.85,Forecast,Prophet,31.12,41.44
+2026-10-01,Potatoes,36.67,Forecast,Prophet,31.12,42.5
+2026-11-01,Potatoes,33.56,Forecast,Prophet,31.12,39.31
+2026-12-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-01-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-02-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-03-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-04-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-05-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-06-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2027-07-01,Potatoes,31.12,Forecast,Prophet,31.12,31.12
+2026-08-01,Potatoes,55.34,Forecast,XGBoost,49.81,60.87
+2026-09-01,Potatoes,54.95,Forecast,XGBoost,49.45,60.44
+2026-10-01,Potatoes,57.46,Forecast,XGBoost,51.71,63.2
+2026-11-01,Potatoes,57.79,Forecast,XGBoost,52.01,63.57
+2026-12-01,Potatoes,57.43,Forecast,XGBoost,51.69,63.18
+2027-01-01,Potatoes,41.13,Forecast,XGBoost,37.01,45.24
+2027-02-01,Potatoes,32.77,Forecast,XGBoost,29.49,36.04
+2027-03-01,Potatoes,32.64,Forecast,XGBoost,29.38,35.9
+2027-04-01,Potatoes,35.67,Forecast,XGBoost,32.11,39.24
+2027-05-01,Potatoes,41.46,Forecast,XGBoost,37.31,45.6
+2027-06-01,Potatoes,45.52,Forecast,XGBoost,40.97,50.08
+2027-07-01,Potatoes,55.13,Forecast,XGBoost,49.62,60.65
+2026-08-01,Pulse Moong (Washed),362.18,Forecast,Prophet,356.8,367.77
+2026-09-01,Pulse Moong (Washed),393.32,Forecast,Prophet,387.56,398.85
+2026-10-01,Pulse Moong (Washed),380.85,Forecast,Prophet,374.73,387.04
+2026-11-01,Pulse Moong (Washed),359.0,Forecast,Prophet,352.37,365.77
+2026-12-01,Pulse Moong (Washed),378.21,Forecast,Prophet,371.1,385.66
+2027-01-01,Pulse Moong (Washed),382.01,Forecast,Prophet,374.42,390.43
+2027-02-01,Pulse Moong (Washed),392.19,Forecast,Prophet,383.16,402.1
+2027-03-01,Pulse Moong (Washed),371.94,Forecast,Prophet,360.68,383.19
+2027-04-01,Pulse Moong (Washed),379.06,Forecast,Prophet,367.26,392.0
+2027-05-01,Pulse Moong (Washed),387.24,Forecast,Prophet,372.36,401.75
+2027-06-01,Pulse Moong (Washed),372.78,Forecast,Prophet,356.35,388.95
+2027-07-01,Pulse Moong (Washed),351.85,Forecast,Prophet,332.76,370.9
+2026-08-01,Pulse Moong (Washed),383.64,Forecast,XGBoost,345.27,422.0
+2026-09-01,Pulse Moong (Washed),382.6,Forecast,XGBoost,344.34,420.86
+2026-10-01,Pulse Moong (Washed),383.46,Forecast,XGBoost,345.11,421.8
+2026-11-01,Pulse Moong (Washed),378.71,Forecast,XGBoost,340.84,416.58
+2026-12-01,Pulse Moong (Washed),379.52,Forecast,XGBoost,341.57,417.48
+2027-01-01,Pulse Moong (Washed),388.38,Forecast,XGBoost,349.54,427.21
+2027-02-01,Pulse Moong (Washed),390.8,Forecast,XGBoost,351.72,429.88
+2027-03-01,Pulse Moong (Washed),391.0,Forecast,XGBoost,351.9,430.1
+2027-04-01,Pulse Moong (Washed),391.87,Forecast,XGBoost,352.68,431.06
+2027-05-01,Pulse Moong (Washed),391.75,Forecast,XGBoost,352.57,430.92
+2027-06-01,Pulse Moong (Washed),383.75,Forecast,XGBoost,345.38,422.13
+2027-07-01,Pulse Moong (Washed),374.08,Forecast,XGBoost,336.68,411.49
+2026-08-01,Pulse Gram,257.68,Forecast,Prophet,245.61,294.4
+2026-09-01,Pulse Gram,292.33,Forecast,Prophet,253.96,327.62
+2026-10-01,Pulse Gram,305.65,Forecast,Prophet,269.56,341.95
+2026-11-01,Pulse Gram,304.36,Forecast,Prophet,269.27,345.43
+2026-12-01,Pulse Gram,284.15,Forecast,Prophet,245.61,321.54
+2027-01-01,Pulse Gram,245.61,Forecast,Prophet,245.61,259.43
+2027-02-01,Pulse Gram,245.61,Forecast,Prophet,245.61,245.61
+2027-03-01,Pulse Gram,245.61,Forecast,Prophet,245.61,278.52
+2027-04-01,Pulse Gram,245.61,Forecast,Prophet,245.61,260.18
+2027-05-01,Pulse Gram,245.61,Forecast,Prophet,245.61,249.58
+2027-06-01,Pulse Gram,245.61,Forecast,Prophet,245.61,245.61
+2027-07-01,Pulse Gram,245.61,Forecast,Prophet,245.61,245.61
+2026-08-01,Pulse Gram,254.65,Forecast,XGBoost,229.18,280.11
+2026-09-01,Pulse Gram,258.49,Forecast,XGBoost,232.64,284.34
+2026-10-01,Pulse Gram,262.43,Forecast,XGBoost,236.19,288.67
+2026-11-01,Pulse Gram,260.58,Forecast,XGBoost,234.52,286.63
+2026-12-01,Pulse Gram,258.86,Forecast,XGBoost,232.97,284.74
+2027-01-01,Pulse Gram,259.48,Forecast,XGBoost,233.53,285.42
+2027-02-01,Pulse Gram,253.84,Forecast,XGBoost,228.45,279.22
+2027-03-01,Pulse Gram,251.8,Forecast,XGBoost,226.62,276.98
+2027-04-01,Pulse Gram,250.26,Forecast,XGBoost,225.23,275.28
+2027-05-01,Pulse Gram,249.68,Forecast,XGBoost,224.71,274.65
+2027-06-01,Pulse Gram,280.08,Forecast,XGBoost,252.07,308.09
+2027-07-01,Pulse Gram,292.58,Forecast,XGBoost,263.32,321.83
+2026-08-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2026-09-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2026-10-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2026-11-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2026-12-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-01-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-02-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-03-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-04-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-05-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-06-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2027-07-01,Pulse Masoor (Washed),257.64,Forecast,Prophet,257.64,257.64
+2026-08-01,Pulse Masoor (Washed),259.41,Forecast,XGBoost,233.47,285.35
+2026-09-01,Pulse Masoor (Washed),260.11,Forecast,XGBoost,234.09,286.12
+2026-10-01,Pulse Masoor (Washed),260.59,Forecast,XGBoost,234.53,286.65
+2026-11-01,Pulse Masoor (Washed),260.76,Forecast,XGBoost,234.68,286.83
+2026-12-01,Pulse Masoor (Washed),260.91,Forecast,XGBoost,234.82,287.0
+2027-01-01,Pulse Masoor (Washed),261.03,Forecast,XGBoost,234.92,287.13
+2027-02-01,Pulse Masoor (Washed),260.95,Forecast,XGBoost,234.86,287.05
+2027-03-01,Pulse Masoor (Washed),260.24,Forecast,XGBoost,234.21,286.26
+2027-04-01,Pulse Masoor (Washed),260.0,Forecast,XGBoost,234.0,286.0
+2027-05-01,Pulse Masoor (Washed),258.48,Forecast,XGBoost,232.63,284.33
+2027-06-01,Pulse Masoor (Washed),258.06,Forecast,XGBoost,232.26,283.87
+2027-07-01,Pulse Masoor (Washed),257.79,Forecast,XGBoost,232.01,283.57
+2026-08-01,Pulse Mash (Washed),494.1,Forecast,Prophet,486.03,502.18
+2026-09-01,Pulse Mash (Washed),527.88,Forecast,Prophet,519.81,536.29
+2026-10-01,Pulse Mash (Washed),532.53,Forecast,Prophet,523.65,541.44
+2026-11-01,Pulse Mash (Washed),515.2,Forecast,Prophet,505.51,525.03
+2026-12-01,Pulse Mash (Washed),490.58,Forecast,Prophet,478.74,501.66
+2027-01-01,Pulse Mash (Washed),458.4,Forecast,Prophet,445.18,471.63
+2027-02-01,Pulse Mash (Washed),493.9,Forecast,Prophet,478.29,508.86
+2027-03-01,Pulse Mash (Washed),532.41,Forecast,Prophet,514.23,549.38
+2027-04-01,Pulse Mash (Washed),543.1,Forecast,Prophet,523.03,563.19
+2027-05-01,Pulse Mash (Washed),528.91,Forecast,Prophet,504.55,551.72
+2027-06-01,Pulse Mash (Washed),518.25,Forecast,Prophet,490.13,542.62
+2027-07-01,Pulse Mash (Washed),499.38,Forecast,Prophet,469.07,527.37
+2026-08-01,Pulse Mash (Washed),447.51,Forecast,XGBoost,402.76,492.26
+2026-09-01,Pulse Mash (Washed),447.91,Forecast,XGBoost,403.12,492.7
+2026-10-01,Pulse Mash (Washed),450.07,Forecast,XGBoost,405.06,495.08
+2026-11-01,Pulse Mash (Washed),444.76,Forecast,XGBoost,400.29,489.24
+2026-12-01,Pulse Mash (Washed),439.4,Forecast,XGBoost,395.46,483.34
+2027-01-01,Pulse Mash (Washed),430.36,Forecast,XGBoost,387.33,473.4
+2027-02-01,Pulse Mash (Washed),455.05,Forecast,XGBoost,409.54,500.55
+2027-03-01,Pulse Mash (Washed),459.84,Forecast,XGBoost,413.86,505.83
+2027-04-01,Pulse Mash (Washed),470.36,Forecast,XGBoost,423.32,517.39
+2027-05-01,Pulse Mash (Washed),460.12,Forecast,XGBoost,414.11,506.13
+2027-06-01,Pulse Mash (Washed),460.55,Forecast,XGBoost,414.5,506.61
+2027-07-01,Pulse Mash (Washed),454.71,Forecast,XGBoost,409.23,500.18

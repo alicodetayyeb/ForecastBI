@@ -1,0 +1,66 @@
+================================================================================
+  ForecastBI - Phase 1 EDA Summary Report
+================================================================================
+
+1. DATASET OVERVIEW
+----------------------------------------
+   Commodities:  7
+   Months:       41 (per commodity)
+   Total records: 287
+   Cities:       17
+   Missing data: 0 (all clean)
+
+2. SUMMARY STATISTICS (National Average Price, Rs/Kg)
+----------------------------------------
+            Commodity  N_Months  Mean_Price  Median_Price  Min_Price  Max_Price  Std_Dev  CV_%  Avg_MoM_%  Max_MoM_Jump_%  Max_MoM_Drop_%  Latest_Price  Price_Range
+             Tomatoes        41      110.49        103.90      42.26     264.57    51.48  46.6      10.73           174.4           -51.1        264.13       222.31
+               Onions        41      107.89         99.62      45.51     221.59    47.98  44.5       1.57            31.4           -40.8        101.81       176.08
+             Potatoes        41       76.69         81.92      31.12     116.85    22.63  29.5       1.53            59.1           -30.4         54.98        85.73
+ Pulse Moong (Washed)        41      345.40        368.16     263.26     402.44    48.42  14.0       0.72             7.7            -7.7        368.16       139.18
+           Pulse Gram        41      286.00        259.56     229.43     411.18    49.61  17.3       0.03            12.8            -8.0        246.04       181.75
+Pulse Masoor (Washed)        41      297.36        295.31     257.64     339.50    24.26   8.2      -0.15            18.1            -4.7        257.64        81.86
+  Pulse Mash (Washed)        41      490.73        470.00     419.23     581.03    46.58   9.5       0.24             7.8            -4.5        453.55       161.80
+
+3. VOLATILITY RANKING (Coefficient of Variation)
+----------------------------------------
+   Tomatoes                   CV =  46.6%  [HIGH]
+   Onions                     CV =  44.5%  [HIGH]
+   Potatoes                   CV =  29.5%  [HIGH]
+   Pulse Gram                 CV =  17.3%  [MODERATE]
+   Pulse Moong (Washed)       CV =  14.0%  [MODERATE]
+   Pulse Mash (Washed)        CV =   9.5%  [LOW]
+   Pulse Masoor (Washed)      CV =   8.2%  [LOW]
+
+4. STATIONARITY TESTS (Augmented Dickey-Fuller, alpha = 0.05)
+----------------------------------------
+            Commodity  ADF_Level_Stat  ADF_Level_pvalue Level_Stationary  ADF_Diff_Stat  ADF_Diff_pvalue Diff_Stationary
+             Tomatoes         -2.1308            0.2323               No        -4.5658           0.0001             Yes
+               Onions         -2.6211            0.0887               No        -3.8125           0.0028             Yes
+             Potatoes         -1.8033            0.3788               No        -4.9504           0.0000             Yes
+ Pulse Moong (Washed)         -1.2466            0.6532               No        -6.7197           0.0000             Yes
+           Pulse Gram         -1.8726            0.3451               No        -3.4260           0.0101             Yes
+Pulse Masoor (Washed)         -1.0000            0.7533               No        -6.2630           0.0000             Yes
+  Pulse Mash (Washed)         -1.7569            0.4021               No        -3.4374           0.0097             Yes
+
+   Non-stationary at level: Tomatoes, Onions, Potatoes, Pulse Moong (Washed), Pulse Gram, Pulse Masoor (Washed), Pulse Mash (Washed)
+   Stationary after 1st diff: Tomatoes, Onions, Potatoes, Pulse Moong (Washed), Pulse Gram, Pulse Masoor (Washed), Pulse Mash (Washed)
+
+5. NOTABLE CORRELATIONS
+----------------------------------------
+   Onions <-> Pulse Mash: r = +0.62  [Moderate positive]
+   Onions <-> Pulse Masoor: r = +0.68  [Moderate positive]
+   Pulse Mash <-> Pulse Masoor: r = +0.78  [Moderate positive]
+
+6. MODELING IMPLICATIONS
+----------------------------------------
+   * Vegetables (Tomatoes, Onions, Potatoes) show high volatility
+     and strong seasonality - Prophet should capture these well.
+   * Pulses show more stable trends - XGBoost with lag features
+     may outperform Prophet for these.
+   * 41 observations is small; recommend 6-month test holdout
+     (35 train / 6 test) over 12-month to preserve training data.
+   * First-differencing needed for non-stationary series in XGBoost.
+
+================================================================================
+  End of Report
+================================================================================

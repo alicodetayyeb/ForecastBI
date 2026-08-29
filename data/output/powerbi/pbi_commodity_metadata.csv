@@ -1,0 +1,8 @@
+Commodity,Category,Unit,Volatility_Tier,Avg_Price_Rs,CV_Pct,Best_Model
+Tomatoes,Vegetables,1 Kg,High,110.49,46.6,XGBoost
+Onions,Vegetables,1 Kg,High,107.89,44.5,XGBoost
+Potatoes,Vegetables,1 Kg,High,76.69,29.5,Prophet
+Pulse Moong (Washed),Pulses & Legumes,1 Kg,Moderate,345.4,14.0,XGBoost
+Pulse Gram,Pulses & Legumes,1 Kg,Moderate,286.0,17.3,Prophet
+Pulse Masoor (Washed),Pulses & Legumes,1 Kg,Low,297.36,8.2,XGBoost
+Pulse Mash (Washed),Pulses & Legumes,1 Kg,Low,490.73,9.5,XGBoost

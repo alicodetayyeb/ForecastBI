@@ -1,0 +1,15 @@
+Commodity,Model,MAPE,RMSE,MAE,Accuracy_Pct,Is_Winner
+Tomatoes,Prophet,48.37,115.72,69.28,51.63,False
+Tomatoes,XGBoost,19.55,59.52,32.32,80.45,True
+Onions,Prophet,57.66,46.54,45.13,42.34,False
+Onions,XGBoost,29.42,27.26,24.35,70.58,True
+Potatoes,Prophet,30.98,16.8,13.25,69.02,True
+Potatoes,XGBoost,127.9,48.24,47.99,-27.9,False
+Pulse Moong (Washed),Prophet,6.46,29.87,24.97,93.54,False
+Pulse Moong (Washed),XGBoost,2.2,12.02,8.29,97.8,True
+Pulse Gram,Prophet,9.63,32.02,23.85,90.37,True
+Pulse Gram,XGBoost,10.0,34.73,24.66,90.0,False
+Pulse Masoor (Washed),Prophet,9.14,26.91,23.84,90.86,False
+Pulse Masoor (Washed),XGBoost,6.69,17.75,17.39,93.31,True
+Pulse Mash (Washed),Prophet,21.14,104.58,97.45,78.86,False
+Pulse Mash (Washed),XGBoost,6.22,29.83,28.86,93.78,True
