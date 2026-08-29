@@ -6,12 +6,12 @@ An end-to-end Machine Learning and Business Intelligence project for forecasting
 
 ## 🎯 Target Commodities
 1. **Tomatoes**
-2. **Onion**
-3. **Potato**
-4. **Daal Moong** (Mung Bean)
-5. **Daal Masar** (Whole Red Lentil)
-6. **Daal Masoor** (Split Red Lentil)
-7. **Daal Mash** (Urad / Black Gram)
+2. **Onions**
+3. **Potatoes**
+4. **Pulse Moong (Washed)**
+5. **Pulse Gram**
+6. **Pulse Masoor (Washed)**
+7. **Pulse Mash (Washed)**
 
 ---
 
@@ -47,11 +47,13 @@ ForecastBI/
 ├── data/
 │   ├── raw/                            # Raw PBS downloads (Excel / CSV)
 │   ├── processed/                      # Cleaned time-series data
+│   │   ├── master_all_commodities_monthly_prices.csv
+│   │   └── target_commodities_monthly_prices.csv
 │   └── output/                         # Power BI ready CSV files
-│       ├── dummy_historical_prices.csv
-│       ├── dummy_forecasts_next_year.csv
-│       ├── dummy_model_accuracy.csv
-│       └── dummy_monthly_summary.csv
+│       ├── historical_commodity_prices.csv
+│       ├── forecasts_next_year.csv
+│       ├── model_accuracy.csv
+│       └── monthly_summary.csv
 │
 ├── notebooks/
 │   ├── 01_data_collection.ipynb        # Data ingestion & cleaning walkthrough

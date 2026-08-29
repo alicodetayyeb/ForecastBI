@@ -1,46 +1,60 @@
 """
-Data loading, cleaning, standardization, and missing value imputation for PBS data.
+Data loading, cleaning, standardization, and compilation for PBS Excel and PDF datasets.
 """
 
 from pathlib import Path
 from typing import Optional
 import pandas as pd
 
-from src.utils import RAW_DATA_DIR, PROCESSED_DATA_DIR, TARGET_COMMODITIES
+from src.utils import RAW_DATA_DIR, PROCESSED_DATA_DIR, OUTPUT_DATA_DIR, TARGET_COMMODITIES
 
 
-def load_raw_pbs_files(raw_dir: Path = RAW_DATA_DIR) -> pd.DataFrame:
+def load_compiled_target_data(processed_dir: Path = PROCESSED_DATA_DIR) -> pd.DataFrame:
     """
-    Load raw PBS excel/csv files from raw data folder and combine them.
+    Load the compiled target commodities monthly price dataset.
     """
-    # TODO: Implement multi-file reader (Excel/CSV/SPI tables)
-    pass
+    target_file = processed_dir / "target_commodities_monthly_prices.csv"
+    if not target_file.exists():
+        from compile_pbs_data import main as run_compiler
+        run_compiler()
+        
+    df = pd.read_csv(target_file)
+    df["Date"] = pd.to_datetime(df["Date"])
+    return df
 
 
-def clean_commodity_data(df: pd.DataFrame) -> pd.DataFrame:
+def load_compiled_master_data(processed_dir: Path = PROCESSED_DATA_DIR) -> pd.DataFrame:
     """
-    Filter for target 7 commodities, standardize column names,
-    handle missing values, and structure dates.
+    Load all 51 commodities compiled dataset.
     """
-    # TODO: Implement commodity filtering and cleaning
-    pass
+    master_file = processed_dir / "master_all_commodities_monthly_prices.csv"
+    if not master_file.exists():
+        from compile_pbs_data import main as run_compiler
+        run_compiler()
+        
+    df = pd.read_csv(master_file)
+    df["Date"] = pd.to_datetime(df["Date"])
+    return df
 
 
-def resample_to_monthly(df: pd.DataFrame) -> pd.DataFrame:
+def get_commodity_timeseries(df: pd.DataFrame, commodity_name: str) -> pd.DataFrame:
     """
-    Aggregate weekly prices to monthly averages for smooth forecasting.
+    Extract a single commodity's time-series formatted for Prophet/XGBoost (ds, y).
     """
-    # TODO: Implement resampling to monthly average
-    pass
-
-
-def save_processed_data(df: pd.DataFrame, output_path: Optional[Path] = None) -> Path:
-    """
-    Save cleaned dataset to data/processed directory.
-    """
-    # TODO: Implement save logic
-    pass
+    sub = df[df["Target_Commodity"] == commodity_name].sort_values("Date").copy()
+    ts_df = pd.DataFrame({
+        "ds": sub["Date"],
+        "y": sub["National_Average_Price"],
+        "commodity": commodity_name,
+        "unit": sub["Unit"].iloc[0] if len(sub) > 0 else "1 Kg"
+    })
+    return ts_df.reset_index(drop=True)
 
 
 if __name__ == "__main__":
-    print("Running Data Cleaning Pipeline...")
+    print("Running Data Cleaning & Ingestion Pipeline...")
+    df_target = load_compiled_target_data()
+    print(f"Target Commodities Data Loaded: {len(df_target)} records spanning {df_target['Date'].min().date()} to {df_target['Date'].max().date()}")
+    for comm in TARGET_COMMODITIES:
+        ts = get_commodity_timeseries(df_target, comm)
+        print(f"  * {comm:15s}: {len(ts)} observations | Latest price: Rs {ts['y'].iloc[-1]:.2f}")

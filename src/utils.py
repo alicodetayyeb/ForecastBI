@@ -15,15 +15,15 @@ MODELS_DIR = BASE_DIR / "models"
 REPORTS_DIR = BASE_DIR / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"
 
-# 7 Target Commodities
+# 7 Target Commodities (strictly mirroring PBS terminology)
 TARGET_COMMODITIES: List[str] = [
     "Tomatoes",
-    "Onion",
-    "Potato",
-    "Daal Moong",
-    "Daal Masar",
-    "Daal Masoor",
-    "Daal Mash"
+    "Onions",
+    "Potatoes",
+    "Pulse Moong (Washed)",
+    "Pulse Gram",
+    "Pulse Masoor (Washed)",
+    "Pulse Mash (Washed)"
 ]
 
 def ensure_directories_exist() -> None:

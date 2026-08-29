@@ -1,0 +1,27 @@
+PBS Monthly Price Index - Missing Months Log
+Generated at: 2026-08-29 19:09:33
+Total Target Months: 60
+Total Missing / Unavailable: 19
+
+======================================================================
+Month (YYYY-MM)    | Reason
+----------------------------------------------------------------------
+2026-08            | Month record not published in table on PBS website
+2023-02            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_February_2023.pdf
+2023-01            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_January_2023.pdf
+2022-12            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_December_2022.pdf
+2022-11            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_November_2022.pdf
+2022-10            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_October_2022.pdf
+2022-09            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_September_2022.pdf
+2022-08            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_August_2022.pdf
+2022-07            | HTTP 404 when downloading from https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_July_2022.pdf
+2022-06            | Month record not published in table on PBS website
+2022-05            | Month record not published in table on PBS website
+2022-04            | Month record not published in table on PBS website
+2022-03            | Month record not published in table on PBS website
+2022-02            | Month record not published in table on PBS website
+2022-01            | Month record not published in table on PBS website
+2021-12            | Month record not published in table on PBS website
+2021-11            | Month record not published in table on PBS website
+2021-10            | Month record not published in table on PBS website
+2021-09            | Month record not published in table on PBS website
