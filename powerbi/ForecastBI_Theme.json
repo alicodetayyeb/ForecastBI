@@ -1,0 +1,156 @@
+{
+  "name": "ForecastBI Dark Theme",
+  "dataColors": [
+    "#3B82F6",
+    "#10B981",
+    "#F97316",
+    "#8B5CF6",
+    "#EC4899",
+    "#FBBF24",
+    "#06B6D4",
+    "#EF4444"
+  ],
+  "background": "#1B2838",
+  "foreground": "#E2E8F0",
+  "tableAccent": "#3B82F6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "color": [{ "solid": { "color": "#E2E8F0" } }],
+        "background": [{ "solid": { "color": "#1E293B" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "border": [{ "radius": 8 }],
+        "label": [{
+          "color": { "solid": { "color": "#94A3B8" } },
+          "fontSize": 10,
+          "fontFamily": "Segoe UI"
+        }],
+        "value": [{
+          "color": { "solid": { "color": "#F1F5F9" } },
+          "fontSize": 22,
+          "fontFamily": "Segoe UI Semibold",
+          "fontBold": true
+        }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "plotArea": [{
+          "transparency": 0
+        }],
+        "xAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } },
+          "titleColor": { "solid": { "color": "#94A3B8" } }
+        }],
+        "yAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } },
+          "titleColor": { "solid": { "color": "#94A3B8" } }
+        }],
+        "legend": [{
+          "labelColor": { "solid": { "color": "#E2E8F0" } }
+        }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "xAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } }
+        }],
+        "yAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } }
+        }],
+        "legend": [{
+          "labelColor": { "solid": { "color": "#E2E8F0" } }
+        }]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "xAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } }
+        }],
+        "yAxis": [{
+          "labelColor": { "solid": { "color": "#94A3B8" } }
+        }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "grid": [{
+          "gridHorizontal": true,
+          "gridHorizontalColor": { "solid": { "color": "#1E293B" } },
+          "rowPadding": 4,
+          "outlineColor": { "solid": { "color": "#1E293B" } }
+        }],
+        "columnHeaders": [{
+          "fontColor": { "solid": { "color": "#94A3B8" } },
+          "backColor": { "solid": { "color": "#0F172A" } },
+          "fontSize": 10,
+          "fontBold": true
+        }],
+        "values": [{
+          "fontColorPrimary": { "solid": { "color": "#E2E8F0" } },
+          "backColorPrimary": { "solid": { "color": "#0F172A" } },
+          "fontColorSecondary": { "solid": { "color": "#E2E8F0" } },
+          "backColorSecondary": { "solid": { "color": "#162032" } }
+        }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "solid": { "color": "#0F172A" } }],
+        "data": [{
+          "fontColor": { "solid": { "color": "#E2E8F0" } },
+          "background": { "solid": { "color": "#0F172A" } }
+        }],
+        "header": [{
+          "fontColor": { "solid": { "color": "#94A3B8" } },
+          "background": { "solid": { "color": "#0F172A" } },
+          "fontSize": 10,
+          "fontBold": true
+        }],
+        "items": [{
+          "fontColor": { "solid": { "color": "#E2E8F0" } },
+          "background": { "solid": { "color": "#0F172A" } }
+        }]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontSize": 16,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F1F5F9"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#94A3B8"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#94A3B8"
+    },
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F1F5F9"
+    },
+    "smallLabel": {
+      "fontSize": 9,
+      "fontFace": "Segoe UI",
+      "color": "#64748B"
+    }
+  }
+}
